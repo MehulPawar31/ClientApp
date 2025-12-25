@@ -8,7 +8,7 @@ export const Sidebar = () => {
     <aside className="w-64 bg-[#0f172a] h-screen text-slate-400 p-6 flex flex-col border-r border-slate-800">
       <div className="flex items-center gap-2 text-white font-bold text-xl mb-10">
         <div className="w-8 h-8 bg-blue-600 rounded flex items-center justify-center">I</div>
-        <span>InvSystems</span>
+        <span>IMS</span>
       </div>
 
       <nav className="flex-1 space-y-1">

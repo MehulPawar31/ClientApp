@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Optional: Add your custom base styles below */
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900 antialiased;
+  }
+}
+
+@theme {
+  --color-primary: #0f172a;
+  --color-accent: #3b82f6;
+}
